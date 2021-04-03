@@ -46,7 +46,7 @@
 /ios
 /mojo
 /out
-/testing
+# /testing
 /third_party
 /tools
 /tools_webrtc/android/profiling/flamegraph
